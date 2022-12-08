@@ -2,11 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>CUSTOM OBJECT API NAME HERE</members>
-        <name>CustomObject</name>
+        <name>object1</name>
     </types>
     <types>
         <members>CUSTOM TAB API NAME HERE</members>
-        <name>CustomTab</name>
+        <name>object1s</name>
     </types>
     <version>51.0</version>
 </Package>
