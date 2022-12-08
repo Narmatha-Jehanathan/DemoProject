@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>CUSTOM OBJECT API NAME HERE</members>
-        <name>object1</name>
+        <name>object1__c</name>
     </types>
     <types>
         <members>CUSTOM TAB API NAME HERE</members>
