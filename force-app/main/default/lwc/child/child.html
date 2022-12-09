@@ -1,7 +1,6 @@
 <template>
-    <lightning-layout>
-        <lightning-card>
-           <p>Hello World</p> ?
-        </lightning-card>
-    </lightning-layout>
+    <lightning-card title="Hello World">
+        <p class="slds-p-horizontal_small slds-p-bottom_small">{text}</p>
+        <lightning-button variant="brand" label="View" class="slds-p-horizontal_small" onclick={handleClick}></lightning-button>
+    </lightning-card>
 </template>
